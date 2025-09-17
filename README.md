@@ -9,9 +9,9 @@ It highlights traditions, cuisine, and modern aspects of Turkish living.
 
 ## 📸 Screenshots
 
-![Homepage](screenshots/home.png)
-![About Page](screenshots/about.png)
-![Contact Page](screenshots/contact.png)
+![Homepage](Home.png)
+![About Page](AboutMe.png)
+![Contact Page](contact.png)
 
 ---
 
