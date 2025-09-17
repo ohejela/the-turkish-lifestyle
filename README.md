@@ -10,7 +10,7 @@ It highlights traditions, cuisine, and modern aspects of Turkish living.
 ## 📸 Screenshots
 
 ![Homepage](Home.png)
-![About Page](AboutMe.png)
+![About Page](About Me.png)
 ![Contact Page](contact.png)
 
 ---
